@@ -4,4 +4,4 @@ Monkey patches a grouped_select method:
   <%= f.grouped_select :favourite_food, ['Ice Creams', [['Strawberry', 1], ['Chocolate', 2]]] %>
 <% end %>
 
-Until I make this into a plugin, to install just add this into your initializers directory.
+Until I make this into a plugin just add this into your initializers directory.
